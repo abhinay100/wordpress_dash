@@ -22,7 +22,7 @@ define('DB_NAME', 'ubu_wp');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'admin');
+define('DB_PASSWORD', 'password');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
